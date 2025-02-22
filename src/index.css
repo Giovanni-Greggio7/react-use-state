@@ -2,3 +2,13 @@
     margin: 0 auto;
     width: 90%;
 }
+
+.langDescription{
+    width: 100%;
+}
+
+.langDescription
+h2 {
+    margin: 0;
+}
+
